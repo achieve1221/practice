@@ -1,2 +1,2 @@
 # practice
-this is my practice room
+这是一个学生成绩管理系统 写来练练手的 
